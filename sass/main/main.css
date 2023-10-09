@@ -278,7 +278,7 @@
     padding: 0px 30px 100px 30px;
   }
   .container .section-4 .box {
-    padding: 20px 30px;
+    padding: 20px 10px;
   }
   .container .section-4 .box .box-1 {
     display: flex;
@@ -286,9 +286,11 @@
     align-items: center;
   }
   .container .section-4 .box .box-1 h2 {
-    width: 300px;
+    text-align: center;
+    width: 270px;
   }
   .container .section-4 .box .box-2 img {
-    max-width: 300px;
+    margin-top: 30px;
+    max-width: 270px;
   }
 }/*# sourceMappingURL=main.css.map */
